@@ -1,0 +1,4 @@
+allure-behave==2.8.18
+behave==1.2.6
+requests==2.24.0
+jsonpath-ng==1.5.2
